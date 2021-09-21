@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Hasta las puertas mas pesadas pueden ser abiertas");
         }
     }
 }
